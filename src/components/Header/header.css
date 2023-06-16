@@ -1,0 +1,14 @@
+#scroll{
+    position: relative;
+    top:45%;
+    right:2%
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.about{
+    height: 90%;
+    width: 100%;
+}
